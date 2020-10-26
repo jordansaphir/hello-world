@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello my name is jordan and this is my first time on github
